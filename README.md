@@ -1,19 +1,20 @@
-### Hi there 👋, my name is Vũ
-#### I am an Unity Game Developer Intern
 ![I am an Unity Game Developer Intern](https://i.ibb.co/4tvTGJk/Red-Orange-Abstract-Modern-Shapes-General-Twitch-Banner.png)
 
-I'm an Software Engineering student who is trying to get into Game Developement.  
 
-Skills: C#/Unity
+## Hello, my name is Vũ <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-- 🔭 I’m currently working on a mobile game 
+##### *(An Unity Game Developer Intern)*
+
+I'm an Software Engineering student who is trying my best in Game Programming. I have been using C# and Unity Engine for more a year.
+
+I've made 1 game on the store:
+* [Merge Billiards](https://play.google.com/store/apps/details?id=com.merge.billard)
+
+#### At the moment...
+- 🏢· I’m currently working as an Intern for a small mobile game company
+- 🎮 I’m currently working on a mobile game 
 - 🌱 I’m currently learning Flutter 
 
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trandinhvu13)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=trandinhvu13&show_icons=true&count_private=true)  
-
-![Profile views](https://gpvc.arturio.dev/trandinhvu13)  
