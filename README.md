@@ -1,16 +1,20 @@
-### Hi there 👋
+![I am an Unity Game Developer Intern](https://i.ibb.co/4tvTGJk/Red-Orange-Abstract-Modern-Shapes-General-Twitch-Banner.png)
 
-<!--
-**trandinhvu13/trandinhvu13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Hello, my name is Vũ <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##### *(An Unity Game Developer Intern)*
+
+I'm an Software Engineering student who is trying my best in Game Programming. I have been using C# and Unity Engine for more a year.
+
+I've made 1 game on the store:
+* [Merge Billiards](https://play.google.com/store/apps/details?id=com.merge.billard)
+
+#### At the moment...
+- 🏢· I’m currently working as an Intern for a small mobile game company
+- 🎮 I’m currently working on a mobile game 
+- 🌱 I’m currently learning Flutter 
+
+
+
+
