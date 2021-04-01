@@ -11,7 +11,7 @@ I've made 1 game on the store:
 * [Merge Billiards](https://play.google.com/store/apps/details?id=com.merge.billard)
 
 #### At the moment...
-- 🏢· I’m currently working as an Intern for a small mobile game company
+- 🏢 I’m currently working as an Intern for a small mobile game company
 - 🎮 I’m currently working on a mobile game 
 - 🌱 I’m currently learning Flutter 
 
