@@ -7,7 +7,7 @@
 
 I'm an Software Engineering student who is trying my best in Game Programming. I have been using C# and Unity Engine for more a year.
 
-I've made 1 game on the store:
+#### List of published game I have made:
 * [Merge Billiards](https://play.google.com/store/apps/details?id=com.merge.billard)
 
 #### At the moment...
