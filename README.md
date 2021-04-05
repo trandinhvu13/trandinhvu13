@@ -8,8 +8,9 @@
 I'm an Software Engineering student who is trying my best in Game Programming. I have been using C# and Unity Engine for more a year.
 
 #### Projects I have done
+
 No. | Date | Name | Using | Description
------------- | ------------- | ------------- | -------------
+------------ | ------------- | ------------- | ------------- | -------------
 1 | 12/2019 | [SentryVR](https://github.com/trandinhvu13/SentryVR) | Unity | A small FPS VR project for school assignment (First time learning Unity)
 2 | 12/2019 | SentryVR | Unity | A small FPS VR project for school assignment (First time learning Unity)
 3 | 12/2019 | SentryVR | Unity | A small FPS VR project for school assignment (First time learning Unity)
