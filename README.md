@@ -7,9 +7,16 @@
 
 I'm an Software Engineering student who is trying my best in Game Programming. I have been using C# and Unity Engine for more a year.
 
-#### Project I have made with
-* Unity
-  * [Merge Billiards](https://play.google.com/store/apps/details?id=com.merge.billard)
+#### Projects I have done
+No. | Date | Name | Using | Description
+------------ | ------------- | ------------- | -------------
+1 | 12/2019 | [SentryVR](https://github.com/trandinhvu13/SentryVR) | Unity | A small FPS VR project for school assignment (First time learning Unity)
+2 | 12/2019 | SentryVR | Unity | A small FPS VR project for school assignment (First time learning Unity)
+3 | 12/2019 | SentryVR | Unity | A small FPS VR project for school assignment (First time learning Unity)
+4 | 12/2019 | SentryVR | Unity | A small FPS VR project for school assignment (First time learning Unity)
+5 | 12/2019 | SentryVR | Unity | A small FPS VR project for school assignment (First time learning Unity)
+6 | 12/2019 | SentryVR | Unity | A small FPS VR project for school assignment (First time learning Unity)
+  * [Merge Billiards](https://github.com/trandinhvu13/Merged-BIlliards)
   * [Merge Billiards](https://play.google.com/store/apps/details?id=com.merge.billard)
   * [Merge Billiards](https://play.google.com/store/apps/details?id=com.merge.billard)
   * [Merge Billiards](https://play.google.com/store/apps/details?id=com.merge.billard)
