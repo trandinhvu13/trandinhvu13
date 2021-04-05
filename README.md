@@ -3,7 +3,7 @@
 
 # Hello, my name is Vũ <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-##### *(An Unity Game Developer Intern)*
+#### *An Unity Game Developer Intern*
 
 I'm an Software Engineering student who is trying my best in Game Programming. I have been using C# and Unity Engine for more than a year.
 
