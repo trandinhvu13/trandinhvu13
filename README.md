@@ -14,7 +14,7 @@ No. | Date | Name | Using | Description
 1 | 12/2019 | [SentryVR](https://github.com/trandinhvu13/SentryVR) | Unity | A small FPS VR project for school assignment w/ Oculus Rift (First time learning Unity)
 2 | 6/2020 | [Untitled Animal Game](https://github.com/trandinhvu13/Untitled-Animal-Game) | Unity | A mobile game where you make drink orders based on color
 3 | 12/2020 | [AR Gốm sứ](https://github.com/trandinhvu13/Untitled-Animal-Game) | Unity | A small AR project demonstrates applying AR in selling and previewing pottery (Collab with a friend from FPT Greenwhich University) 
-4 | 1/2021 | [Merge Billiards](https://github.com/trandinhvu13/Merged-BIlliards) | Unity | First assigned game to make at Double Fun Game Company
+4 | 1/2021 | [Merge Billiards](https://github.com/trandinhvu13/Merged-BIlliards) | Unity | First game I made as an Intern at Double Fun
 
 #### Games I made that got published on Google Play Store:
 * [Merge Billiards](https://play.google.com/store/apps/details?id=com.merge.billard)
@@ -24,7 +24,7 @@ No. | Date | Name | Using | Description
 - 🎮 I’m currently working on a mobile game 
 - 🌱 I’m currently learning Flutter 
 
-#### _** Thank you for reading this ❤ **_
+### Thank you for reading this ❤ 
 
 
 
