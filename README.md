@@ -20,9 +20,9 @@ No. | Date | Name | Using | Description
 * [Merge Billiards](https://play.google.com/store/apps/details?id=com.merge.billard)
 
 ### At the moment...
-- 🏢 I’m currently working as an Intern for a small mobile game company
-- 🎮 I’m currently working on a mobile game 
-- 🌱 I’m currently learning Flutter 
+- 🏢 I’m working as an Intern for a small mobile game company
+- 🎮 I’m working on a mobile game 
+- 🌱 I’m learning Flutter 
 
 ### Thank you for reading this ❤ 
 
