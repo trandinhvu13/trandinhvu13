@@ -11,11 +11,11 @@ I'm an Software Engineering student who is trying my best in Game Programming. I
 
 No. | Date | Name | Using | Description | Downloadable
 ------------ | ------------- | ------------- | ------------- | ------------- | -------------
-1 | 12/2019 | [Escape Laboratory VR](https://github.com/trandinhvu13/Escape-Laboratory-VR) | Unity | A small FPS VR project for school assignment w/ Oculus Rift (First time learning Unity) | [ ] 
-2 | 06/2020 | [Untitled Animal Game](https://github.com/trandinhvu13/Untitled-Animal-Game) | Unity | A mobile game where you make drink orders based on color | [x] 
-3 | 12/2020 | [AR Gốm sứ](https://github.com/trandinhvu13/ARGS) | Unity | A small mobile AR project demonstrates applying AR in selling and previewing pottery (Collab with a friend from FPT Greenwhich University) | [ ] 
-4 | 01/2021 | [Merge Billiards](https://play.google.com/store/apps/details?id=com.merge.billard) | Unity | First mobile game I made as an Intern at Double Fun (A Dicedome clone) | [x] 
-5 | 04/2021 | [Paradise Picker](https://github.com/trandinhvu13/Paradise-Picker) | Unity | A mini mobile game made for PlayStudios as one of their test assignmments | [x] 
+1 | 12/2019 | [Escape Laboratory VR](https://github.com/trandinhvu13/Escape-Laboratory-VR) | Unity | A small FPS VR project for school assignment w/ Oculus Rift (First time learning Unity) | -[ ] 
+2 | 06/2020 | [Untitled Animal Game](https://github.com/trandinhvu13/Untitled-Animal-Game) | Unity | A mobile game where you make drink orders based on color | -[x] 
+3 | 12/2020 | [AR Gốm sứ](https://github.com/trandinhvu13/ARGS) | Unity | A small mobile AR project demonstrates applying AR in selling and previewing pottery (Collab with a friend from FPT Greenwhich University) | -[ ] 
+4 | 01/2021 | [Merge Billiards](https://play.google.com/store/apps/details?id=com.merge.billard) | Unity | First mobile game I made as an Intern at Double Fun (A Dicedome clone) | -[x] 
+5 | 04/2021 | [Paradise Picker](https://github.com/trandinhvu13/Paradise-Picker) | Unity | A mini mobile game made for PlayStudios as one of their test assignmments | -[x] 
 
 ### Games I made that got published on Google Play Store:
 * [Merge Billiards](https://play.google.com/store/apps/details?id=com.merge.billard)
