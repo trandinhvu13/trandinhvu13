@@ -10,7 +10,7 @@ I'm an Software Engineering student who is trying my best in Game Programming. I
 ### Projects I have done:
 
 No. | Date | Name | Using | Description | Downloadable
------------- | ------------- | ------------- | ------------- | -------------
+------------ | ------------- | ------------- | ------------- | ------------- | -------------
 1 | 12/2019 | [Escape Laboratory VR](https://github.com/trandinhvu13/Escape-Laboratory-VR) | Unity | A small FPS VR project for school assignment w/ Oculus Rift (First time learning Unity) | [ ] 
 2 | 06/2020 | [Untitled Animal Game](https://github.com/trandinhvu13/Untitled-Animal-Game) | Unity | A mobile game where you make drink orders based on color | [x] 
 3 | 12/2020 | [AR Gốm sứ](https://github.com/trandinhvu13/ARGS) | Unity | A small mobile AR project demonstrates applying AR in selling and previewing pottery (Collab with a friend from FPT Greenwhich University) | [ ] 
