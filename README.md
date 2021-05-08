@@ -15,7 +15,7 @@ No. | Date | Name | Using | Description
 2 | 06/2020 | [Untitled Animal Game](https://github.com/trandinhvu13/Untitled-Animal-Game) | Unity | A mobile game where you make drink orders based on color
 3 | 12/2020 | [AR Gốm sứ](https://github.com/trandinhvu13/ARGS) | Unity | A small AR project demonstrates applying AR in selling and previewing pottery (Collab with a friend from FPT Greenwhich University) 
 4 | 01/2021 | [Merge Billiards](https://play.google.com/store/apps/details?id=com.merge.billard) | Unity | First game I made as an Intern at Double Fun (A Dicedome clone)
-5 | 04/2021 | [Paradise Picker](https://github.com/trandinhvu13/Paradise-Picker) | Unity | A mini game made for PlayStudios as one of their test assignmment in a short amount of time
+5 | 04/2021 | [Paradise Picker](https://github.com/trandinhvu13/Paradise-Picker) | Unity | A mini game made for PlayStudios as one of their test assignmments
 
 ### Games I made that got published on Google Play Store:
 * [Merge Billiards](https://play.google.com/store/apps/details?id=com.merge.billard)
