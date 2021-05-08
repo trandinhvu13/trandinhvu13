@@ -6,7 +6,7 @@
 #### *An Unity Game Developer Intern*
 
 I'm an Software Engineering student who is trying my best in Game Programming. I have been using C# and Unity Engine for more than a year.  
-[My CV in case you want to take a look](https://bit.ly/3tuSoHJ)
+[Here is my CV in case you want to take a look.](https://bit.ly/3tuSoHJ)
 
 ### Projects I have done:
 
