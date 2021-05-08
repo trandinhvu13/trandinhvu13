@@ -22,7 +22,7 @@ No. | Date | Name | Using | Description | Downloadable |
 ### Games I made that got published on Google Play Store:
 * [Merge Billiards](https://play.google.com/store/apps/details?id=com.merge.billard)
 
-### Thank you for reading this ❤ 
+### Thank you for reading this. Have a nice day and stay safe ❤ 
 
 
 
